@@ -1,10 +1,15 @@
-ul {list-style-type: none;
-  margin: 0;
-  padding: 0;
+/* Navbox */
+ul {text-align: center;
+  list-style-type: none;
+  margin-left: auto;
+  margin-right: auto;
+  margin: -8px;
+  padding: 10px;
   overflow: hidden;
-  background-color: #333333;
-  font-family: "Rubik Glitch", system-ui;
-  font-weight: 400;}
+  background-color: #242131;
+  font-family: "Special Elite", system-ui;
+  font-weight: 400;
+  font-size: 25px;}
 
 ul li {float: left;}
 
@@ -14,4 +19,23 @@ ul li a {display: block;
   padding: 14px 16px;
   text-decoration: none;}
 
-ul li a:hover {background-color: #111111;}
+ul li a:hover {color:rgb(0, 0, 0);
+  text-shadow:
+    0 0 5px rgb(255, 255, 255),
+    0 0 10px rgb(255, 255, 255),
+    0 0 20px rgb(255, 255, 255),
+    0 0 40px rgb(255, 255, 255),
+    0 0 80px rgb(255, 255, 255);}
+
+/* Java Script */
+.section {min-height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+  margin: -8px;}
+
+.Mike1 {Background-size:cover;
+  background-image:url(Mike_traits_remake.png);}
