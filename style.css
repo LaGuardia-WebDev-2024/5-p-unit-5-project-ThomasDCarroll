@@ -1,3 +1,13 @@
+h1 {font-family: "Rubik Glitch", system-ui;
+  font-style: normal;
+  font-weight: lighter;
+  margin-bottom: -10px;
+  font-size: 75px;}
+
+p {font-family: "Special Elite", system-ui;
+  font-size: 25px;
+  max-width: 60%;}
+
 /* Navbox */
 ul {text-align: center;
   list-style-type: none;
@@ -6,7 +16,7 @@ ul {text-align: center;
   margin: -8px;
   padding: 10px;
   overflow: hidden;
-  background-color: #242131;
+  background-color: #131f30;
   font-family: "Special Elite", system-ui;
   font-weight: 400;
   font-size: 25px;}
@@ -35,14 +45,25 @@ ul li a:hover {color:rgb(0, 0, 0);
   align-items: center;
   color: white;
   text-align: center;
-  margin-top: 8px;
   margin-left: -8px;
   margin-right: -8px;}
 
-.Mike1 {min-height: 120vh;
+.Home1 {min-height: 100vh;
+  margin-top: 8px;
+  Background-size:cover;
+  background-image:url(Until+Dawn™_20180513150005.webp);}
+
+.Home2 {min-height: 100vh;
+  margin-top: 0px;
+  Background-size:cover;
+  background-image:url(Until+Dawn™_20180513155626.webp);}
+
+.Mike1 {min-height: 110vh;
+  margin-top: 8px;
   Background-size:cover;
   background-image:url(Mike\ Title\ Card.png);}
 
-.Emily1 {min-height: 120vh;
+.Emily1 {min-height: 110vh;
+  margin-top: 8px;
   Background-size:cover;
   background-image:url(Emily\ Title\ Card.png);}
