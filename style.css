@@ -35,7 +35,14 @@ ul li a:hover {color:rgb(0, 0, 0);
   align-items: center;
   color: white;
   text-align: center;
-  margin: -8px;}
+  margin-top: 8px;
+  margin-left: -8px;
+  margin-right: -8px;}
 
-.Mike1 {Background-size:cover;
-  background-image:url(Mike_traits_remake.png);}
+.Mike1 {min-height: 120vh;
+  Background-size:cover;
+  background-image:url(Mike\ Title\ Card.png);}
+
+.Emily1 {min-height: 120vh;
+  Background-size:cover;
+  background-image:url(Emily\ Title\ Card.png);}
