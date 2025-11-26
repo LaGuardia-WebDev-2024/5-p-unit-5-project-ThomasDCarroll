@@ -1,5 +1,5 @@
-h1 {font-family: "Rubik Glitch", system-ui;
-  font-style: normal;
+h1 {font-family: "Special Elite", system-ui;
+  font-style: bolder;
   font-weight: lighter;
   margin-bottom: -10px;
   font-size: 75px;}
@@ -7,6 +7,17 @@ h1 {font-family: "Rubik Glitch", system-ui;
 p {font-family: "Special Elite", system-ui;
   font-size: 25px;
   max-width: 60%;}
+
+span {font-weight: bold;}
+
+.title {position: relative;}
+
+.spoilers {position: absolute;
+  bottom: 0;
+  padding-bottom: 50px;
+  font-size: 50px;}
+
+#logo {src: url(Until_Dawn_29.webp);}
 
 /* Navbox */
 ul {text-align: center;
@@ -16,7 +27,7 @@ ul {text-align: center;
   margin: -8px;
   padding: 10px;
   overflow: hidden;
-  background-color: #131f30;
+  background-color: #0a0a0a;
   font-family: "Special Elite", system-ui;
   font-weight: 400;
   font-size: 25px;}
@@ -46,24 +57,61 @@ ul li a:hover {color:rgb(0, 0, 0);
   color: white;
   text-align: center;
   margin-left: -8px;
-  margin-right: -8px;}
+  margin-right: -8px;
+  padding: 0;
+  border: none;}
 
 .Home1 {min-height: 100vh;
   margin-top: 8px;
   Background-size:cover;
-  background-image:url(Until+Dawn™_20180513150005.webp);}
+  background-image:url(until-dawn-keyart.avif);}
 
 .Home2 {min-height: 100vh;
   margin-top: 0px;
   Background-size:cover;
   background-image:url(Until+Dawn™_20180513155626.webp);}
 
+.Home3 {min-height: 100vh;
+  margin-top: 0px;
+  Background-size:cover;
+  background-image:url(Until+Dawn™_20180513141947.webp);}
+
 .Mike1 {min-height: 110vh;
   margin-top: 8px;
   Background-size:cover;
   background-image:url(Mike\ Title\ Card.png);}
 
+.Sam1 {min-height: 110vh;
+  margin-top: 8px;
+  Background-size:cover;
+  background-image:url(Sam\ Title\ Card.png);}
+
+.Chris1 {min-height: 110vh;
+  margin-top: 8px;
+  Background-size:cover;
+  background-image:url(Chris\ Title\ Card.png);}
+
 .Emily1 {min-height: 110vh;
   margin-top: 8px;
   Background-size:cover;
   background-image:url(Emily\ Title\ Card.png);}
+
+.Ashley1 {min-height: 110vh;
+  margin-top: 8px;
+  Background-size:cover;
+  background-image:url(Ashley\ Title\ Card.png);}
+
+.Matt1 {min-height: 110vh;
+  margin-top: 8px;
+  Background-size:cover;
+  background-image:url(Matt\ Title\ Card.png);}
+
+.Jess1 {min-height: 110vh;
+  margin-top: 8px;
+  Background-size:cover;
+  background-image:url(Jess\ Title\ Card.png);}
+
+.Josh1 {min-height: 110vh;
+  margin-top: 8px;
+  Background-size:cover;
+  background-image:url(Josh\ Title\ Card.png);}
