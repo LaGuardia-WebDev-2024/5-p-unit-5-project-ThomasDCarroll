@@ -288,6 +288,36 @@ ul {font-size: 25px;}
   Background-size:cover;
   background-image:url(Emily\ Title\ Card.png);}
 
+.Emily2 {min-height: 100vh;
+  margin-top: 0px;
+  Background-size:cover;
+  background-image:url(daniel-purcell-chase-scene-1.jpg);
+  isolation: isolate;}
+
+.Emily3 {min-height: 100vh;
+  margin-top: 0px;
+  Background-size:cover;
+  background-image:url(daniel-purcell-capture10.jpg);
+  isolation: isolate;}
+
+.Emily4 {min-height: 100vh;
+  margin-top: 0px;
+  Background-size:cover;
+  background-image:url(daniel-purcell-mineslighting-23.jpg);
+  isolation: isolate;}
+
+.Emily5 {min-height: 100vh;
+  margin-top: 0px;
+  Background-size:cover;
+  background-image:url(daniel-purcell-chase-scene-23.jpg);
+  isolation: isolate;}
+
+.Emily6 {min-height: 100vh;
+  margin-top: 0px;
+  Background-size:cover;
+  background-image:url(daniel-purcell-2-2-05.jpg);
+  isolation: isolate;}
+
 .Ashley1 {min-height: 110vh;
   margin-top: 8px;
   Background-size:cover;
