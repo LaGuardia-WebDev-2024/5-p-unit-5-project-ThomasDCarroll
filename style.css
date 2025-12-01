@@ -323,15 +323,105 @@ ul {font-size: 25px;}
   Background-size:cover;
   background-image:url(Ashley\ Title\ Card.png);}
 
+.Ashley2 {min-height: 100vh;
+  margin-top: 0px;
+  Background-size:cover;
+  background-image:url(daniel-purcell-2-2-02.jpg);
+  isolation: isolate;}
+
+.Ashley3 {min-height: 100vh;
+  margin-top: 0px;
+  Background-size:cover;
+  background-image:url(daniel-purcell-chase-scene-16.jpg);
+  isolation: isolate;}
+
+.Ashley4 {min-height: 100vh;
+  margin-top: 0px;
+  Background-size:cover;
+  background-image:url(daniel-purcell-screenshot-be-nl-6296-pink-0107.jpg);
+  isolation: isolate;}
+
+.Ashley5 {min-height: 100vh;
+  margin-top: 0px;
+  Background-size:cover;
+  background-image:url(daniel-purcell-mines9.jpg);
+  isolation: isolate;}
+
+.Ashley6 {min-height: 100vh;
+  margin-top: 0px;
+  Background-size:cover;
+  background-image:url(daniel-purcell-capture7.jpg);
+  isolation: isolate;}
+
 .Matt1 {min-height: 110vh;
   margin-top: 8px;
   Background-size:cover;
   background-image:url(Matt\ Title\ Card.png);}
 
+.Matt2 {min-height: 100vh;
+  margin-top: 0px;
+  Background-size:cover;
+  background-image:url(daniel-purcell-mines11.jpg);
+  isolation: isolate;}
+
+.Matt3 {min-height: 100vh;
+  margin-top: 0px;
+  Background-size:cover;
+  background-image:url(daniel-purcell-chase-scene-23.jpg);
+  isolation: isolate;}
+
+.Matt4 {min-height: 100vh;
+  margin-top: 0px;
+  Background-size:cover;
+  background-image:url(daniel-purcell-mineslighting-22.jpg);
+  isolation: isolate;}
+
+.Matt5 {min-height: 100vh;
+  margin-top: 0px;
+  Background-size:cover;
+  background-image:url(daniel-purcell-mines1.jpg);
+  isolation: isolate;}
+
+.Matt6 {min-height: 100vh;
+  margin-top: 0px;
+  Background-size:cover;
+  background-image:url(daniel-purcell-mines14.jpg);
+  isolation: isolate;}
+
 .Jess1 {min-height: 110vh;
   margin-top: 8px;
   Background-size:cover;
   background-image:url(Jess\ Title\ Card.png);}
+
+.Jess2 {min-height: 100vh;
+  margin-top: 0px;
+  Background-size:cover;
+  background-image:url(daniel-purcell-mines11.jpg);
+  isolation: isolate;}
+
+.Jess3 {min-height: 100vh;
+  margin-top: 0px;
+  Background-size:cover;
+  background-image:url(daniel-purcell-2-2-01.jpg);
+  isolation: isolate;}
+
+.Jess4 {min-height: 100vh;
+  margin-top: 0px;
+  Background-size:cover;
+  background-image:url(daniel-purcell-capture7.jpg);
+  isolation: isolate;}
+
+.Jess5 {min-height: 100vh;
+  margin-top: 0px;
+  Background-size:cover;
+  background-image:url(daniel-purcell-mines17.jpg);
+  isolation: isolate;}
+
+.Jess6 {min-height: 100vh;
+  margin-top: 0px;
+  Background-size:cover;
+  background-image:url(daniel-purcell-chase-scene-16.jpg);
+  isolation: isolate;}
 
 .Josh1 {min-height: 110vh;
   margin-top: 8px;
